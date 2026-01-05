@@ -7,7 +7,7 @@
 
 Uma aplicação web interativa com temática Pokémon que permite ao usuário gerenciar sua própria coleção e testar suas habilidades em um sistema de batalha clássico.
 
-
+**Link:** (https://mycustompokedex.netlify.app)
 
 ## 🚀 Funcionalidades
 
